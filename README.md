@@ -12,5 +12,6 @@ https://youtu.be/ZqHZw1QrakE?t=60
 
 
 - Kevlin light compensation
-- 
+- SRGB P3
+- Historygramme 
 
