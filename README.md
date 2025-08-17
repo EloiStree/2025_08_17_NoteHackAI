@@ -9,3 +9,8 @@ https://universe.roboflow.com/dhyan-thacker/rubiks-cube-colors
 https://youtu.be/mWer5XsM5sE?t=937
 
 https://youtu.be/ZqHZw1QrakE?t=60
+
+
+- Kevlin light compensation
+- 
+
